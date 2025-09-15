@@ -1,7 +1,9 @@
 name: pop_over_menu
 description: "A lightweight Flutter popover menu that appears on button click, automatically positioning itself above or below the button."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/ninjacoader/bs_pop_over_menu"
+repository: "https://github.com/ninjacoader/bs_pop_over_menu"
+
 # Author info
 authors:
   - Bijendra Singh <bijendra.development@gmail.com>
